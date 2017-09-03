@@ -22,7 +22,7 @@ ipython notebook
 spyder
 ```
 
-   *Seems installed but get error when running "Python" in the command line*
+    *Seems installed but get error when running "Python" in the command line*
 
 Second, inside any of those Python interpreters, you should be able to
 do all of these without error:
