@@ -23,7 +23,7 @@ spyder
 ```
 >> ** Need to restart the terminal to see the python and ipython, ** </p>
 >> ** also, the python 2.7 was changed to python 3.6.1** </p>
->> ** also, remember to "quit()" to run a different module**/
+>> ** also, remember to "quit()" to run a different module** </p>
 >> ** Type in the name and the app will start**
 
 Second, inside any of those Python interpreters, you should be able to
