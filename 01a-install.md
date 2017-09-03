@@ -21,7 +21,9 @@ ipython
 ipython notebook
 spyder
 ```
->> TM: Seems installed but get error when running "Python" in the command line
+>> **Need to restart the terminal to see the python and ipython, 
+also, the python 2.7 was changed to python 3.6.1
+also, remember to "quit()" to run a different module**
 
 Second, inside any of those Python interpreters, you should be able to
 do all of these without error:
@@ -34,6 +36,7 @@ import pandas
 import statsmodels
 import sklearn
 ```
+>> **run this in the spyder, works!**
 
 ### Install [Homebrew](http://brew.sh/) on Mac
 
@@ -50,13 +53,13 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE, Python 3
+>> ** Python 3 **
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE, probably try typing Python in the command line
+>> ** TM: Type "Python" in the command line / terminal**
 
  
 
