@@ -21,9 +21,10 @@ ipython
 ipython notebook
 spyder
 ```
->> **Need to restart the terminal to see the python and ipython, 
-also, the python 2.7 was changed to python 3.6.1
-also, remember to "quit()" to run a different module**
+>> ** Need to restart the terminal to see the python and ipython, **
+>> ** also, the python 2.7 was changed to python 3.6.1**
+>> ** also, remember to "quit()" to run a different module**
+>> ** Type in the name and the app will start**
 
 Second, inside any of those Python interpreters, you should be able to
 do all of these without error:
