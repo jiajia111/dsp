@@ -6,7 +6,7 @@
 You have it installed if you can run `git --version` at the command
 line and get output like `git version 2.3.5`.
 
->> TM: 2017/9/3: done, get 2.11.0 (Apple Git-81)
+>> **TM: 2017/9/3: done, get 2.11.0 (Apple Git-81)**
 
 ### Install [Anaconda](http://continuum.io/downloads).
 
