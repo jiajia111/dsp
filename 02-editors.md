@@ -89,7 +89,7 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> I like sublime since it looks pretty nice and works for me as a new coder.
+>> I like sublime since it looks pretty nice and works for me as a new coder. <p>
 >> Emacs: https://www.gnu.org/software/emacs/download.html#macos
 
  
