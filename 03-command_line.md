@@ -22,14 +22,13 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > > 1. **pwd**  - print working directory <p>
 > > 2. **cd <directory>** - create directory <p>
 > > 3. **rm -r <directory>** - delete <directory> <p>
-> > 4. **touch <file>** - create an empty file, such as txt
+> > 4. **touch <file>** - create an empty file, such as txt <p>
 > > 5. **rm <file>** - delete a file <p>
 > > 6. **mv <file-old> <file-new>** - rename a file <p> 
 > > 7. **ls -la** - list hidden files <p>
-> > 8. **cp <file> <directory> ** - copy a file from one directory to another <p>
-> > 9. **ls ** - list documents in the directory folder <p>
-> >10. **cat <file> ** - output the contents of the file <p>
-
+> > 8. **cp <file> <directory>** - copy a file from one directory to another <p>
+> > 9. **ls** - list documents in the directory folder <p>
+> >10. **cat <file>** - output the contents of the file <p>
 
 ---
 
