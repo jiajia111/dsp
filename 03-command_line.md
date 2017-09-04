@@ -43,7 +43,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > **ls** List directory contents <P>
+> > **ls -a** lists all files including hidden files <P>
+> > **ls -l** (Lower case L) Displays the mode, number of links, owner, group, size (in bytes), and time of last modification for each file. <P>
+>> **ls -lh** List Files with Human Readable Format with option –lh <P>
+>> **ls -lah** <P>
+> > ** t** sort the list of files by modification time. <P>
+>> **ls -glp**<P>
 
 ---
 
