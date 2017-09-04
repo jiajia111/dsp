@@ -57,7 +57,12 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+>> ls [options] [names] <P>
+>> -a	Displays all files. <P>
+>> -b	Displays nonprinting characters in octal. <P>
+>> -c	Displays files by file timestamp. <P>
+>> -C	Displays files in a columnar format (default) <P>
+>> -d	Displays only directories. <P>
 
 ---
 
