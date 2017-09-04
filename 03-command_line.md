@@ -70,7 +70,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+>> **One application is to include into one line** <P>
+>> ref as **https://www.youtube.com/watch?v=8kAB_VgokMY**
 
  
 
