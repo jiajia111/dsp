@@ -173,5 +173,5 @@ Content in the first column | Content in the second column
 [Markdown Help](http://mathoverflow.net/editing-help)
 
 
-**TM: **  
+**TM:**  
 **finished on 9/9** 
