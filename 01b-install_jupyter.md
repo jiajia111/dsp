@@ -18,6 +18,7 @@ Review the [notes on using Jupyter Notebook](resources/jupyter_notebook_2_use.md
  
  
  
-
-
+<p>
+<p>
+<p>
 **TM: installed**
