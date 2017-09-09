@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> Probably **nano**. Just feeling comfortable using this.
+>> Probably **nano**. First one in the recommendation.
 
 --
 
@@ -89,7 +89,5 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> I like sublime since it looks pretty nice and works for me as a new coder. <p>
->> Emacs: https://www.gnu.org/software/emacs/download.html#macos
-
- 
+>> Atom, recommend in the book of "learn python the hard way"
+>> Atomatically fill in the double quotes in the print command; It is feasible to create a new file by right click the folder list in atom
