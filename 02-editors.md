@@ -89,5 +89,5 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> Atom, recommend in the book of "learn python the hard way"
+>> Atom, recommend in the book of "learn python the hard way"  
 >> Atomatically fill in the double quotes in the print command; It is feasible to create a new file by right click the folder list in atom
