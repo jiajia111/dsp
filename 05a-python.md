@@ -12,9 +12,9 @@ For quick and easy interactive practice with Python, many people enjoy [Codecade
 
 How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
->> **Similar: **<p>
->> **Difference: List is mutable and tuples is immutable. **<p>
->> **Tuple is used as keys in dictionaries. List can only use numbers, but tuples (as elements in the dictionary) can use any format of inputs, including numbers and strings**  
+>> Similar: <p>
+>> Difference: List is mutable and tuples is immutable. <p>
+>> Tuple is used as keys in dictionaries. List can only use numbers, but tuples (as elements in the dictionary) can use any format of inputs, including numbers and strings
 
 ---
 
